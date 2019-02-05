@@ -1,4 +1,4 @@
-# Chebyshev-s-Inequality
+# Chebyshev's Inequality
 When a distribution is Gaussian it follows the 68-95-99.7 rule i.e.
 68% of data lie between μ-σ and μ+σ 
 95% of data lie between μ-2σ and μ+2σ
